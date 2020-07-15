@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACE,YAAa,CACb,qBAAsB,CACtB,kBACF,CAEA,kBACE,WACF","file":"main.0e1462a4.chunk.css","sourcesContent":[".godsList {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n\n.godsList__button {\n  width: 100px;\n}\n"]}

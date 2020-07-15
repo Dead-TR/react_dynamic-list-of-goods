@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,WACE,YAAa,CACb,qBAAsB,CACtB,kBACF,CAEA,mBACE,WACF","file":"main.f906e28f.chunk.css","sourcesContent":[".goodsList {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n\n.goodsList__button {\n  width: 100px;\n}\n"]}
